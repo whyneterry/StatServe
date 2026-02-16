@@ -1,0 +1,20 @@
+DEBUG tests/tstree_tests.c:132: ----- RUNNING: ./tests/tstree_tests
+DEBUG tests/tstree_tests.c:122: 
+----- test_insert
+DEBUG tests/tstree_tests.c:125: 
+----- test_collect
+DEBUG tests/tstree_tests.c:126: 
+----- test_traverse
+DEBUG tests/tstree_tests.c:105: traverse count is: 4
+DEBUG tests/tstree_tests.c:127: 
+----- test_destroy
+DEBUG tests/tstree_tests.c:132: ----- RUNNING: ./tests/tstree_tests
+DEBUG tests/tstree_tests.c:122: 
+----- test_insert
+DEBUG tests/tstree_tests.c:125: 
+----- test_collect
+DEBUG tests/tstree_tests.c:126: 
+----- test_traverse
+DEBUG tests/tstree_tests.c:105: traverse count is: 4
+DEBUG tests/tstree_tests.c:127: 
+----- test_destroy
